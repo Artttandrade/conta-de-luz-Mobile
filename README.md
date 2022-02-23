@@ -11,7 +11,7 @@ A motivação para criar este aplicativo é ter mais controle das finanças, pri
 
 ## Aplicativo
 
-Se quiser baixar o aplicativo ele se encontra [aqui](https://drive.google.com/file/d/1YHo_J1a54SzwMQG-7XZNJYPPGbCYPWAt/view?usp=sharing)
+Se quiser baixar o aplicativo ele se encontra [aqui](https://drive.google.com/file/d/1YHo_J1a54SzwMQG-7XZNJYPPGbCYPWAt/view?usp=sharing).
 
 
 ## Getting Started
